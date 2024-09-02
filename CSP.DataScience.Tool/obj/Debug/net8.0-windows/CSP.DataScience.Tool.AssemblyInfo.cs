@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSP.DataScience.Tool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299fb321835af9201cbf8144adf65c6731dbf825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38342739d674430298621b77cc12248aebb8d0bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSP.DataScience.Tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSP.DataScience.Tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
